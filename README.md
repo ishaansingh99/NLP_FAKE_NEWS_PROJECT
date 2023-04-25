@@ -46,45 +46,31 @@ You can include tables or images to summarize your results when and if appropria
 <!-- GETTING STARTED -->
 ## Getting Started
 
-In this section you should provide instructions on how to use this repository to recreate your project locally.
-
 ### Dependencies
 
-Here, list all libraries, packages and other dependencies that need to be installed to run your project. Include library versions and how they should be installed if a special requirement is needed.
+The dataset for this project is already downloaded and available in the repository. To run the XXXXXX.ipynb notebook, Python with the usual Anaconda packages are required, along with NLTK which can be installed as follows:
 
-For example, this is how you would list them:
-* Transformers 4.8.0
+* Anaconda
   ```sh
-  conda install -c conda-forge transformers
+  conda install anaconda
   ```
-* OpenCV 4.5.2
+* Natural Language Toolkit
   ```sh
-  conda install -c conda-forge opencv
-  ```
-### Alternative: Export your Environment
-
-Alternatively, you can export your Python working environment, push it to your project's repository and allow users to clone it locally. This way, anyone can install it and they will have all dependencies needed. Here is how you export a copy of your Python environment:
-
-  ```sh
-  conda env export > requirements.yml
+  conda install nltk
   ```
 
-The user will be able to recreate it using:
-
-  ```sh
-  conda env create -f requirements.yml
-  ```
+**Alternatively**, the project repository has a requirements.yml file to clone the conda environment used to develop the code. Clone the environment as shown in the <a href="#installation">installation below</a>:
 
 ### Installation
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/catiaspsilva/README-template.git
+   git clone https://github.com/uf-eel6825-sp23/final-project-code-ishaansingh99.git
    ```
-2. Setup (and activate) your environment
-  ```sh
-  conda env create -f requirements.yml
-  ```
+2. Setup (and activate) your environment (or download the packages <a href="#dependencies">above</a>)
+   ```sh
+   conda env create -f requirements.yml
+   ```
 
 <!-- USAGE EXAMPLES -->
 ## Usage
@@ -95,36 +81,12 @@ Additional screenshots, code examples and demos work well in this space. You may
 
 _For more examples, please refer to the [Documentation](https://example.com)_
 
-<!-- ROADMAP -->
-## Roadmap
-
-See the [open issues](https://github.com/catiaspsilva/README-template/issues) for a list of proposed features (and known issues).
-
-<!-- CONTRIBUTING -->
-## Contributing
-
-Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-
-<!-- LICENSE -->
-## License
-
-Distributed under the MIT License. See `LICENSE` for more information.
-
-
 <!-- Authors -->
 ## Authors
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+Ishaan Singh - [LinkedIn](https://www.linkedin.com/in/ishaan-singh-uflorida/) - ishaansingh@ufl.edu
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
-
+Project Link: [https://github.com/uf-eel6825-sp23/final-project-code-ishaansingh99](https://github.com/uf-eel6825-sp23/final-project-code-ishaansingh99)
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
