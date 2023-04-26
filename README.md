@@ -1,6 +1,9 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
+  <a href="https://github.com/uf-eel6825-sp23/final-project-code-ishaansingh99/">
+    <img src="images/wordcloud.png" alt="Word cloud from the project dataset" width="300" height="150">
+  </a>
   <h3 align="center">Identifying Patterns and Trends in Fake News</h3>
 </p>
 
@@ -12,9 +15,6 @@
   <ol>
     <li>
       <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
     </li>
     <li>
       <a href="#getting-started">Getting Started</a>
@@ -24,9 +24,6 @@
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
     <li><a href="#authors">Authors</a></li>
     <li><a href="#acknowledgements">Acknowledgements</a></li>
   </ol>
@@ -57,6 +54,12 @@ The dataset for this project is already downloaded and available in the reposito
 * Natural Language Toolkit
   ```sh
   conda install nltk
+  ```
+Also used was the python word cloud package for generating the word clouds seen in the logo above, but this is not necessary for the notebook, the cell can be skipped without any issues to the rest of the notebook:
+
+* Natural Language Toolkit
+  ```sh
+  conda install wordcloud
   ```
 
 **Alternatively**, the project repository has a requirements.yml file to clone the conda environment used to develop the code. Clone the environment as shown in the <a href="#installation">installation below</a>:
@@ -101,4 +104,4 @@ You can acknowledge any individual, group, institution or service.
 * [Loaders.css](https://connoratherton.com/loaders)
 * [Slick Carousel](https://kenwheeler.github.io/slick)
 
-## Thank you 🫡🫡🫡
+## Thank you
