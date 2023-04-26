@@ -2,7 +2,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/uf-eel6825-sp23/final-project-code-ishaansingh99/">
-    <img src="images/both.png" alt="Word cloud from the project dataset" width="300" height="150">
+    <img src="images/both.png" alt="Word cloud from the project dataset" width="800" height="200">
   </a>
   <h3 align="center">Identifying Patterns and Trends in Fake News</h3>
 </p>
