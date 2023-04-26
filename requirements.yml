@@ -1,4 +1,4 @@
-name: base
+name: PR_Project
 channels:
   - conda-forge
   - defaults
@@ -34,6 +34,7 @@ dependencies:
   - bleach=5.0.1=pyhd8ed1ab_0
   - blosc=1.21.3=hdccc3a2_0
   - bokeh=2.4.3=pyhd8ed1ab_3
+  - boltons=23.0.0=pyhd8ed1ab_0
   - boto3=1.26.49=pyhd8ed1ab_0
   - botocore=1.29.49=pyhd8ed1ab_0
   - bottleneck=1.3.5=py39hc266a54_1
@@ -58,7 +59,7 @@ dependencies:
   - colorcet=3.0.1=pyhd8ed1ab_0
   - comm=0.1.2=pyhd8ed1ab_0
   - comtypes=1.1.14=py39hcbf5309_1
-  - conda=22.11.1=py39hcbf5309_1
+  - conda=23.3.1=py39hcbf5309_0
   - conda-content-trust=0.1.3=pyhd8ed1ab_0
   - conda-pack=0.7.0=pyh6c4a22f_0
   - conda-package-handling=2.0.2=pyh38be061_0
@@ -147,6 +148,8 @@ dependencies:
   - jpeg=9e=h8ffe710_2
   - jq=1.6=haa95532_1
   - json5=0.9.5=pyh9f0ad1d_0
+  - jsonpatch=1.32=pyhd8ed1ab_0
+  - jsonpointer=2.0=py_0
   - jsonschema=4.17.3=pyhd8ed1ab_0
   - jupyter=1.0.0=py39hcbf5309_8
   - jupyter_client=7.4.9=pyhd8ed1ab_0
@@ -244,7 +247,7 @@ dependencies:
   - olefile=0.46=pyh9f0ad1d_1
   - openjpeg=2.5.0=ha2aaf27_2
   - openpyxl=3.0.10=py39ha55989b_2
-  - openssl=3.0.7=hcfcfb64_1
+  - openssl=3.1.0=hcfcfb64_2
   - packaging=23.0=pyhd8ed1ab_0
   - pandas=1.5.2=py39h2ba5b7c_2
   - pandoc=2.19.2=h57928b3_1
@@ -425,6 +428,7 @@ dependencies:
   - win_inet_pton=1.1.0=pyhd8ed1ab_6
   - win_unicode_console=0.5=py39hcbf5309_1003
   - winpty=0.4.3=4
+  - wordcloud=1.8.2.2=py39ha55989b_1
   - wrapt=1.14.1=py39ha55989b_1
   - xarray=2022.12.0=pyhd8ed1ab_0
   - xlrd=2.0.1=pyhd8ed1ab_3
