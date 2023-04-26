@@ -98,4 +98,4 @@ You can acknowledge any individual, group, institution or service.
 * [Loaders.css](https://connoratherton.com/loaders)
 * [Slick Carousel](https://kenwheeler.github.io/slick)
 
-## Thank you 🫡🫡🫡
+## Thank you
