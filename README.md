@@ -2,7 +2,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/uf-eel6825-sp23/final-project-code-ishaansingh99/">
-    <img src="images/wordcloud.png" alt="Word cloud from the project dataset" width="300" height="150">
+    <img src="images/both.png" alt="Word cloud from the project dataset" width="300" height="150">
   </a>
   <h3 align="center">Identifying Patterns and Trends in Fake News</h3>
 </p>
@@ -34,18 +34,14 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-In this section you should describe your project, including any datasets you used and appropriate citations. You may refer to your project report or cite your paper for more detailed information.
-
-[Here goes the title with hyperlink](https://github.com/catiaspsilva/README-template)
-
-You can include tables or images to summarize your results when and if appropriate.
+This project uses the FakeNewsNet dataset to analyze fake news articles for trends and patterns, and develops machine learning models to classify them. See the [project report](Project_Report.pdf) and [code](Project_Code.ipynb) for more.
 
 <!-- GETTING STARTED -->
 ## Getting Started
 
 ### Dependencies
 
-The dataset for this project is already downloaded and available in the repository. To run the XXXXXX.ipynb notebook, Python with the usual Anaconda packages are required, along with NLTK which can be installed as follows:
+The dataset for this project is already downloaded and available in the repository. To run the Project_Code.ipynb notebook, Python with the usual Anaconda packages are required, along with NLTK which can be installed as follows:
 
 * Anaconda
   ```sh
@@ -78,11 +74,11 @@ Also used was the python word cloud package for generating the word clouds seen 
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. For course projects, include which file to execute and the format of any input variables.
+All the code for this project can be found in the commented [Project Code Jupyter Notebook](Project_Code.ipynb). Just follow the instructions above for installation.
 
-Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+Run every code cell in order, but you may choose to omit the word cloud and sentiment analysis cells.
 
-_For more examples, please refer to the [Documentation](https://example.com)_
+A project presentation and demo can be found on [youtube here](LINK TO YOUTUBE VID).
 
 <!-- Authors -->
 ## Authors
@@ -90,18 +86,5 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 Ishaan Singh - [LinkedIn](https://www.linkedin.com/in/ishaan-singh-uflorida/) - ishaansingh@ufl.edu
 
 Project Link: [https://github.com/uf-eel6825-sp23/final-project-code-ishaansingh99](https://github.com/uf-eel6825-sp23/final-project-code-ishaansingh99)
-
-<!-- ACKNOWLEDGEMENTS -->
-## Acknowledgements
-
-You can acknowledge any individual, group, institution or service.
-* [Catia Silva](https://faculty.eng.ufl.edu/catia-silva/)
-* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
-* [Img Shields](https://shields.io)
-* [Choose an Open Source License](https://choosealicense.com)
-* [GitHub Pages](https://pages.github.com)
-* [Animate.css](https://daneden.github.io/animate.css)
-* [Loaders.css](https://connoratherton.com/loaders)
-* [Slick Carousel](https://kenwheeler.github.io/slick)
 
 ## Thank you
