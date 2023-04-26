@@ -55,6 +55,12 @@ The dataset for this project is already downloaded and available in the reposito
   ```sh
   conda install nltk
   ```
+Also used was the python word cloud package for generating the word clouds seen in the logo above, but this is not necessary for the notebook, the cell can be skipped without any issues to the rest of the notebook:
+
+* Natural Language Toolkit
+  ```sh
+  conda install wordcloud
+  ```
 
 **Alternatively**, the project repository has a requirements.yml file to clone the conda environment used to develop the code. Clone the environment as shown in the <a href="#installation">installation below</a>:
 
