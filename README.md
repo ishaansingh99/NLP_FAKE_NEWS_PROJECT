@@ -78,7 +78,7 @@ All the code for this project can be found in the commented [Project Code Jupyte
 
 Run every code cell in order, but you may choose to omit the word cloud and sentiment analysis cells.
 
-A project presentation and demo can be found on [youtube here](LINK TO YOUTUBE VID).
+A project presentation and demo can be found on [youtube here](https://youtu.be/02RJxJ7cR6c).
 
 <!-- Authors -->
 ## Authors
